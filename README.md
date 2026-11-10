@@ -1,6 +1,6 @@
 # The Workshop Box
 
-A 109-card deck, presented as a single self-contained HTML page. Nine tabbed
+A 108-card deck, presented as a single self-contained HTML page. Nine tabbed
 sections, one colour each, in book order.
 
 **Live:** https://feldtdesign-ship-it.github.io/workshop-box-deck/
